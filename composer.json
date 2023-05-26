@@ -1,0 +1,18 @@
+{
+    "name": "pavog/bedrockeconomy",
+    "description": "An economy plugin focused on stability and simplicity.",
+    "version": "2.0.8",
+    "type": "project",
+    "keywords": [
+        "pocketmine",
+        "economy"
+    ],
+    "require": {
+        "pocketmine/pocketmine-mp": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
